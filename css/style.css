@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: aqua;
+}
+.heading{
+    background-image: url(../images/trial.jpeg);
+}
+.imagez{
+    height: 50px;
+}
+p{
+    color: aqua;
+    font-size: 44px;
+    text-align: centerg;
+}
